@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshaya23-11
-- 👀 I’m interested in programming, economics and photography
-- 🌱 I’m currently learning python and data structures 
+- 👀 You can see my latest Portfolio here
+
 
 
 <!---
